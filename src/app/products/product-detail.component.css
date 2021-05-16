@@ -1,0 +1,6 @@
+@import "~font-awesome/css/font-awesome.min.css";
+
+.card-container {
+	display: flex;
+	justify-content: space-around;
+}
